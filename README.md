@@ -21,9 +21,10 @@ Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad Conti
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/eliseo-montenegro-rivera?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="jesus107925@gmail.com"
-><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-&emsp;
+    
+  <a href="[https://www.instagram.com/ejmr4836?igsh=MWFjcndramFpdjJ3Yw=="><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="_._.adam._" height="30" width="40" /></a>
 
 
 <br>
