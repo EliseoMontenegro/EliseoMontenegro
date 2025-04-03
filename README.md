@@ -17,14 +17,6 @@ Soy estudiante de Ingeniería de Sistemas e Informática en la Universidad Conti
 
 <br>
 
-## CONTACTATE CONMIGO ☕ :
-
-<br>
-
-(https://img.icons8.com/fluency/48/000000/linkedin.png "@eliseo-montenegro-rivera")]([https://www.linkedin.com/in/eliseo-montenegro-rivera/](https://www.linkedin.com/in/eliseo-montenegro-rivera?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-
-<br>
-
 ## What I am Good at 🧑‍💻 :
 
 <br>
